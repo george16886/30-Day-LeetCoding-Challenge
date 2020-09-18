@@ -3,8 +3,20 @@
 [**30-Day LeetCoding Challenge**](https://george16886.gitlab.io/categories/LeetCode/30-Day-LeetCoding-Challenge/) @[**george16886's blog**](https://george16886.gitlab.io)
 
 * [x] *Programming language*: **C++**
-* [x] *Environment*: **Ubuntu 16.04**, **Win10 x64**
+* [x] *Environment*: **Ubuntu 16.04**, **Windows 10 x64**
 * [x] *Tool*: **Visual Studio Code** 
+
+---
+
+## To run the code with Visual Studio Code 
+
+* Windows 10
+  * Use settings in *.vscode*
+  * Create folder ***exe*** 
+
+* Ubuntu 16.04
+  * Use settings in *.vscode_ubuntu*
+  * Create folder ***bin*** 
 
 ---
 
