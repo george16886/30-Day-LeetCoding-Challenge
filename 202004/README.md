@@ -10,6 +10,6 @@
 
 ## To run the code with Visual Studio Code 
 
-* Ubuntu 16.04
+### Ubuntu 16.04
   * Use settings in *.vscode_ubuntu*
   * Create folder ***bin*** 
